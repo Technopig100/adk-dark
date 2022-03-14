@@ -8,7 +8,7 @@
    height="48pt"
    version="1.1"
    id="svg8"
-   sodipodi:docname="folder-tmp.svg"
+   sodipodi:docname="folder-user-home.svg"
    inkscape:version="1.1.2 (0a00cf5339, 2022-02-04, custom)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -31,6 +31,9 @@
          offset="1.0"
          style="stop-color:#ed72c7;stop-opacity:1.0" />
     </linearGradient>
+    <style
+       id="current-color-scheme"
+       type="text/css">.ColorScheme-Text { color:#aaaaaa; } .ColorScheme-Highlight { color:#5294e2; }</style>
   </defs>
   <sodipodi:namedview
      id="namedview10"
@@ -43,12 +46,12 @@
      inkscape:document-units="pt"
      showgrid="false"
      inkscape:zoom="8.9375"
-     inkscape:cx="31.104895"
+     inkscape:cx="9.9020979"
      inkscape:cy="31.72028"
-     inkscape:window-width="1920"
-     inkscape:window-height="1010"
-     inkscape:window-x="1600"
-     inkscape:window-y="54"
+     inkscape:window-width="1600"
+     inkscape:window-height="884"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg8" />
   <path
@@ -64,4 +67,9 @@
      id="path6"
      style="fill:#367bf0;fill-opacity:1"
      sodipodi:nodetypes="cssssscccc" />
+  <path
+     style="fill:#ffffff;fill-opacity:1;stroke-width:1.37107"
+     class="ColorScheme-Text"
+     d="m 23.41652,23.419101 c -0.371959,0 -0.743803,0.125454 -1.028819,0.37848 l -8.230484,7.307082 c -0.57003,0.506077 -0.57003,1.320681 0,1.826836 0.344415,0.305771 0.811262,0.404354 1.256181,0.340626 v 6.40639 h 2.910254 v -8.619236 l 5.09294,-4.521549 5.09294,4.521549 v 8.619236 h 2.910253 v -6.40639 c 0.44492,0.06372 0.911769,-0.03486 1.256184,-0.340626 0.570029,-0.506078 0.570029,-1.32068 0,-1.826836 l -8.230486,-7.307082 c -0.285014,-0.25304 -0.656858,-0.37848 -1.028818,-0.37848 z m 0,9.800005 c -1.209209,0 -2.182689,0.864263 -2.182689,1.937808 v 2.583742 1.937807 h 4.365378 v -3.875614 -0.645935 c 0,-1.073545 -0.973479,-1.937808 -2.182689,-1.937808 z"
+     id="path5" />
 </svg>

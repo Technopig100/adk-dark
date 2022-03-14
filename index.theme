@@ -1,6 +1,6 @@
 [Icon Theme]
-Name=ADK-Dark
-Comment=Folders for ADK-Dark theme.
+Name=ADK-Dark-test
+Comment=Folders for ADK-Dark-test theme.
 Inherits=breeze-dark,elementary,gnome,hicolor
 
 
