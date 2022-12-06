@@ -1,7 +1,7 @@
 [Icon Theme]
 Name=ADK-Dark
 Comment=Folders for ADK-Dark theme.
-Inherits=breeze-dark,elementary,gnome,hicolor
+Inherits=breeze-dark,Adwaita,elementary,gnome,hicolor
 
 
 # Directory list
